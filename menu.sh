@@ -25,7 +25,7 @@ do
 	echo "5 - Busca tus datos"
 	echo -e "6 - Salir\n"
 
-	echo "ingrese una opcion"
+	echo "ingrese una opción:"
 	read opcion
 
 	case "$opcion" in 
